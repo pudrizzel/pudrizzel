@@ -5,7 +5,6 @@
 > *Tam olarak 6 yıldır bot işleri ile uğraşıyorum (BDFD'de dahil.)*\
 > *18 Yaşındayım ve boyum 1.82 :)*
 
-
 ```js
 ```
 
