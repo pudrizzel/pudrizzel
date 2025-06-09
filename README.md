@@ -6,6 +6,9 @@
 > *Grafik Tasarım, Yazılımcılık, Yazarlık, Mobilya Ustası*
 
 ```js
+{
+"name": "Hamza"
+}
 ```
 
 
