@@ -6,7 +6,7 @@
 > *Grafik Tasarım, Yazılımcılık, Yazarlık, Mobilya Ustası*
 
 <details>
-  <summary>Komutları Göster</summary>
+  <summary>Hakkımda</summary>
 ```js
 {
 
