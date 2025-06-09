@@ -17,6 +17,6 @@
 
 }
 ```
-<details>
+</details>
 
 ![profile count](https://komarev.com/ghpvc/?username=pudrizzel&color=8b72ff)&nbsp; [![GitHub pudrizzel](https://img.shields.io/github/followers/pudrizzel?label=follow&style=social)](https://github.com/pudrizzel)&nbsp;
