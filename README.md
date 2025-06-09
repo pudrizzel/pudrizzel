@@ -17,4 +17,4 @@
 ```
 
 
-<img src="https://komarev.com/ghpvc/?username=pudrizzel"><br/> [![GitHub pudrizzel](https://img.shields.io/github/followers/pudrizzel?label=follow&style=social)](https://github.com/pudrizzel)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=pudrizzel&color=8b72ff)&nbsp; [![GitHub pudrizzel](https://img.shields.io/github/followers/pudrizzel?label=follow&style=social)](https://github.com/pudrizzel)&nbsp;
