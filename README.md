@@ -6,4 +6,8 @@
 > *18 Yaşındayım ve boyum 1.82 :)*
 
 
+```js
+```
+
+
 <img src="https://komarev.com/ghpvc/?username=pudrizzel"><br/>
