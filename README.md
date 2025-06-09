@@ -11,6 +11,7 @@
 "name": "Hamza",
 "age": "18"
 "size": "1.82"
+"my-favorite-color": "dark"
 
 }
 ```
