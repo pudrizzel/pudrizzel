@@ -1,4 +1,4 @@
-# Merhaba, ben Hamza!
+# 👋 Merhaba, ben Hamza!
 
 > [!CAUTION]
 > *Linklerimi görmek için => guns.lol/pudrizzels*\
