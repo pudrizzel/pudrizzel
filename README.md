@@ -7,7 +7,8 @@
 
 ```js
 {
-"name": "Hamza"
+"name": "Hamza",
+"age": "18"
 }
 ```
 
