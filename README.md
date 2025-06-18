@@ -1,5 +1,9 @@
 # 👋 Merhaba, ben Hamza!
 
+```
+discordu vs. saldım bana gelipte bot istemenize gerek kalmadı artık. Saygılar!
+```
+
 > [!CAUTION]
 > *Linklerimi görmek için => guns.lol/pudrizzels*\
 > *Tam olarak 6 yıldır bot işleri ile uğraşıyorum (BDFD'de dahil.)*\
