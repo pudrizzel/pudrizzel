@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Hamza!
 
 ```
-discordu vs. saldım bana gelipte bot istemenize gerek kalmadı artık. Saygılar!
+discordu saldım bana gelipte bot istemenize gerek kalmadı artık. Saygılar!
 ```
 
 > [!CAUTION]
