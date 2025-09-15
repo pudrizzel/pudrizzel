@@ -7,7 +7,7 @@ discordu saldım bana gelipte bot istemenize gerek kalmadı artık. Saygılar!
 > [!CAUTION]
 > *Linklerimi görmek için => guns.lol/pudrizzels*\
 > *Tam olarak 6 yıldır bot işleri ile uğraşıyorum (BDFD'de dahil.)*\
-> *Grafik Tasarım, Yazılımcılık, Yazarlık, Mobilya Ustası*
+> *Grafik Tasarım, Yazılımcılık, Yazarlık, Mobilya Ustası ve Oto Sanayi Ustası*
 
 ```js
 {
