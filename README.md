@@ -14,7 +14,7 @@ discordu saldım bana gelipte bot istemenize gerek kalmadı artık. Saygılar!
 
 "name": "Hamza",
 "age": "18"
-"size": "1.82"
+"size": "1.83"
 "my-favorite-color": "dark"
 
 }
